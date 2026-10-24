@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-10-24)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`685bf82`](https://github.com/stdlib-js/stdlib/commit/685bf820e417041661cc3fc3552fdbb69a05fea8) - **test:** migrate `constants/float16/ln-two-pi` to ULP-based assertions [(#16185)](https://github.com/stdlib-js/stdlib/pull/16185) _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-07)
