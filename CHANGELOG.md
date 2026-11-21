@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-24)
+## Unreleased (2026-11-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`942eaea`](https://github.com/stdlib-js/stdlib/commit/942eaea758b25b61bf3bc69f591f94ec590f8c3e) - **chore:** clean-up [(#16745)](https://github.com/stdlib-js/stdlib/pull/16745) _(by Philipp Burckhardt)_
 -   [`685bf82`](https://github.com/stdlib-js/stdlib/commit/685bf820e417041661cc3fc3552fdbb69a05fea8) - **test:** migrate `constants/float16/ln-two-pi` to ULP-based assertions [(#16185)](https://github.com/stdlib-js/stdlib/pull/16185) _(by Athan Reines)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
